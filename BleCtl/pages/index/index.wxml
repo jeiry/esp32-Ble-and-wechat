@@ -1,0 +1,10 @@
+<!--index.wxml-->
+<view class="container">
+  <button type="primary" bindtap="light1on">灯1开</button>
+  <view style="height: 10px;"></view>
+  <button type="primary" bindtap="light1off">灯1关</button>
+  <view style="height: 10px;"></view>
+  <button type="default" bindtap="light2on">灯2开</button>
+  <view style="height: 10px;"></view>
+  <button type="default" bindtap="light2off">灯2关</button>
+</view>
